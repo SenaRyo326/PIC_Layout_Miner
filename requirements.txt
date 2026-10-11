@@ -1,0 +1,4 @@
+requests>=2.32.4,<3
+python-dotenv>=1.0.1,<2
+pydantic>=2.10,<3
+pypdf>=6.0,<7
